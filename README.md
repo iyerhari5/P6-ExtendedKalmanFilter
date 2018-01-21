@@ -34,6 +34,7 @@ For the dataset under Data folder, the RMSE values when using both Radar and Lid
 
 ## Experiment with using only one of the sensors
 
+
 In this experiment, only one of the sensor measurements was used as input to the Kalman Filter.  The RMSE results are given below.
 
 Usng only Lidar measurents:
