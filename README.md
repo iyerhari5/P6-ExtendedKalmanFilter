@@ -30,7 +30,7 @@ For the dataset under Data folder, the RMSE values when using both Radar and Lid
 |   py        	 		| 0.0854597 		    	| 
 |   vx        	 		| 0.451267  		    	| 
 |   vy        	 		| 0.439935  		    	| 
-|:---------------------:|:-------------------------:| 
+
 
 ## Experiment with using only one of the sensors
 
@@ -46,7 +46,7 @@ Usng only Lidar measurents:
 | py        	 		| 0.154202  		    	| 
 | vx        	 		| 0.605092  		    	| 
 | vy        	 		| 0.485836  		    	| 
-|:---------------------:|:-------------------------:| 
+
 
 Usng only Radar measurents:
 
@@ -57,7 +57,7 @@ Usng only Radar measurents:
 | py        	 		| 0.335998  		    	| 
 | vx        	 		| 0.617771  		    	| 
 | vy        	 		| 0.678604  		    	| 
-|:---------------------:|:-------------------------:| 
+
 
 
 We can see that the Radar by itself gives the least accurate estimates. Using just Lidar gives better accuracy in the final measurements.
