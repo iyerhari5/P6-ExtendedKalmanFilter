@@ -140,8 +140,8 @@ int main()
           //std::cout << msg << std::endl;
           ws.send(msg.data(), msg.length(), uWS::OpCode::TEXT);
 	  
-		  cout << count <<":Accuracy - RMSE:" << RMSE(0) << "," << RMSE(1) << "," << RMSE(2) << "," << RMSE(3) << "," << endl;
-		  count++;
+		  //cout << count <<":Accuracy - RMSE:" << RMSE(0) << "," << RMSE(1) << "," << RMSE(2) << "," << RMSE(3) << "," << endl;
+		  //count++;
 
         }
       } else {
