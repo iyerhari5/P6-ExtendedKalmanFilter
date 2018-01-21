@@ -61,3 +61,4 @@ Usng only Radar measurents:
 
 We can see that the Radar by itself gives the least accurate estimates. Using just Lidar gives better accuracy in the final measurements.
 However, fusing information from both the sensors gives the best results.
+
