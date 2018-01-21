@@ -24,12 +24,12 @@ equations
 For the dataset under Data folder, the RMSE values when using both Radar and Lidar inputs are given by:
 
 |:---------------------:|:-------------------------:| 
-|	Variable         	|     RMSE 					| 
+|   Variable         	|   RMSE 					| 
 |:---------------------:|:-------------------------:| 
-| px        	 		| 0.0973178 		    	| 
-| py        	 		| 0.0854597 		    	| 
-| vx        	 		| 0.451267  		    	| 
-| vy        	 		| 0.439935  		    	| 
+|   px        	 		| 0.0973178 		    	| 
+|   py        	 		| 0.0854597 		    	| 
+|   vx        	 		| 0.451267  		    	| 
+|   vy        	 		| 0.439935  		    	| 
 |:---------------------:|:-------------------------:| 
 
 ## Experiment with using only one of the sensors
